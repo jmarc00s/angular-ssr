@@ -1,0 +1,6 @@
+version: '3'
+services:
+  angular-ssr:
+    image: angular-ssr
+    ports:
+      - 80:4000
